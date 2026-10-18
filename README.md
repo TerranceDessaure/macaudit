@@ -26,7 +26,7 @@ A zsh script that audits 14 macOS security settings in under a second, scores yo
 ## Install
 
 ```zsh
-git clone https://github.com/<your-username>/macaudit.git
+git clone https://github.com/TerranceDessaure/macaudit.git
 cd macaudit
 chmod +x macaudit.zsh
 ```
